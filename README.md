@@ -30,6 +30,8 @@ weixin-gzh-writing/
 ├── SKILL.md
 ├── INSTALL.md
 ├── LICENSE
+├── README.md
+├── contact_me_qr.png   # 交流群二维码
 ├── agents/
 │   └── openai.yaml
 └── references/
@@ -56,6 +58,16 @@ weixin-gzh-writing/
 用 weixin-gzh-writing 写稿。选题：（一句话）
 先选题校验 → 素材清单 → 大纲等我确认 → 确认后再写正文。
 ```
+
+## 交流进群
+
+用技能时卡住、想看改稿案例，或交流公众号选题与推荐结构，欢迎进群。
+
+**微信扫码加入交流群**（企微群）：
+
+![扫码进群](contact_me_qr.png)
+
+进群后可：提问安装与使用、分享成稿结构、获取更新通知。请注明来意，方便拉你进对的讨论。
 
 ## 协议
 

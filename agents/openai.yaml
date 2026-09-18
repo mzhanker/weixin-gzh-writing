@@ -1,7 +1,16 @@
+name: weixin-gzh-writing
+display_name: 公众号写稿与改稿
+description: >-
+  微信公众号写稿与改稿（同等能力）。改稿按推荐算法重构分发结构；
+  写稿走选题校验→素材占位→大纲确认→成文。含分型诊断、标题/开头、
+  评论区、关注收藏与 SEO。触发词：公众号改稿、写稿、爆款结构、完读率、
+  推荐流量、标题备选、手动摘要、评论区。不用于短视频口播、发后复盘、纯代码。
+
 interface:
-  display_name: "公众号写稿与改稿"
-  short_description: "改稿与写稿同等支持，按微信推荐结构执行"
-  default_prompt: "用 weixin-gzh-writing。先确认改稿或写稿（两种都支持），再按对应流程执行。"
+  display_name: 公众号写稿与改稿
+  short_description: 写稿与改稿同等支持，按微信推荐结构执行
+  default_prompt: >-
+    用 weixin-gzh-writing。先确认改稿或写稿（两种都支持），再按对应流程执行。
 
 policy:
   allow_implicit_invocation: true
